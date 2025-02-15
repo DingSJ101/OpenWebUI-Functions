@@ -1,7 +1,12 @@
 # OpenWebUI-Functions
 Function for Open-WebUI
+
+## Pipe Model For Deepseek Janus
+Provide Janus model support and multi-turn conversations ability for single image understanding.
+![demo](./images/janus-demo.png)
 # Quick Start
-Install functions from [official website](https://openwebui.com/).
+Search functions on [official website](https://openwebui.com/), or 
+- [deepseek-Janus](https://openwebui.com/f/dsj101/deepseek_janus)
 
 Additional operations are required for special functions :
 <details>
